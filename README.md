@@ -3,7 +3,7 @@ Practical Machine Learning 2015
 
 Course Project for Practical Machine Learning on Coursera
 
-#### To view html report online, please click [here](https://github.com/Brunoson/Pratical_Machine_Learning_Project_2015/blob/master/pml_course_project.html).         
+#### To view html report online, please click [here](https://github.com/Brunoson/Pratical_Machine_Learning_Project_2015/master/pml_course_project.html).         
 
 * [project_report.Rmd](./project_report.Rmd): R markdown document for course project report.        
 * [project_report.html](./project_report.html): Compiled html file for course project report.   
